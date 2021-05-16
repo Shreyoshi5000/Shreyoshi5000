@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shreyoshi
 - 👀 I’m interested in programming and open source development
 - 🌱 I’m currently learning C++ and linux
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreyoshi5000@gmail.com 
 
 <!---
